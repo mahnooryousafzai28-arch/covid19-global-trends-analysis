@@ -21,6 +21,6 @@ recoveries by country/region (Jan 22 – Jul 27, 2020).
 Python, pandas, matplotlib, seaborn, Jupyter Notebook
 
 ## Notebook
-See `[your-notebook-filename].ipynb` for the full analysis with code, 
+See covid19-global-trends-analysis.ipynb for the full analysis with code, 
 charts, and insights.# covid19-global-trends-analysis
 Exploratory data analysis of global COVID-19 case data using Python
